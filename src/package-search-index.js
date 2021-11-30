@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"bayes"},{"l":"files"},{"l":"main"},{"l":"model"},{"l":"structure"}]
